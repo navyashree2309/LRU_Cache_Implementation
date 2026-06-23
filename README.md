@@ -1,4 +1,4 @@
-# LRU Cache Implementation in Java
+# LRU Cache Implementation in Java 🚀
 
 ## Overview
 
@@ -11,16 +11,16 @@ The implementation combines:
 
 ---
 
-## Features
+## Features ✨
 
-* O(1) `get()` and `put()` operations
+* O(1) 'get()' and 'put()' operations
 * Automatic eviction of least recently used items
 * Efficient cache management
-* Custom implementation without `LinkedHashMap`
+* Custom implementation without 'LinkedHashMap'
 
 ---
 
-## Technologies Used
+## Technologies Used 💻
 
 * Java
 * HashMap
@@ -39,7 +39,7 @@ text
 
 ---
 
-## Output
+## Output 📋
 
 text
 [null, null, null, 1, null, -1, null, -1, 3, 4]
@@ -47,7 +47,7 @@ text
 
 ---
 
-## Time Complexity
+## Time Complexity ⏱️
 
 | Operation | Complexity |
 | --------- | ---------- |
@@ -65,6 +65,6 @@ text
 
 ---
 
-## Conclusion
+## Conclusion 🎯
 
 This project demonstrates an efficient LRU Cache implementation using a HashMap and Circular Doubly Linked List, ensuring constant-time operations while effectively managing limited cache storage.
