@@ -1,4 +1,4 @@
-# LRU Cache Implementation in Java 🚀
+# LRU Cache Implementation in Java 
 
 ## Overview
 
